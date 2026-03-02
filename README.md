@@ -8,7 +8,7 @@ A heartfelt, interactive birthday surprise website — personally designed and b
 
 ## 💕 About the Project
 
-This is a custom-built birthday experience website made with love for **Srija**. Instead of a card or a message, this project turns a birthday wish into a full interactive web experience — complete with animations, surprises, and personal touches.
+This is a custom-built birthday experience website made with love for **Her**. Instead of a card or a message, this project turns a birthday wish into a full interactive web experience — complete with animations, surprises, and personal touches.
 
 > *"Click to Enter Our World 💕"*
 
@@ -65,3 +65,4 @@ B.Tech CSE Student — Jawaharlal Nehru University, New Delhi
 ---
 
 <p align="center">Built with 💖 by Pallab Chakraborty · For Srija 🎂</p>
+
